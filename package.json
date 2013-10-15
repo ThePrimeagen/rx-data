@@ -1,0 +1,34 @@
+{
+  "name": "rx-data",
+  "version": "0.1.0",
+  "description": "Data processing and correlation.  Async with RX.",
+  "homepage": "https://github.com/primeagen/rx-data",
+  "keywords": [
+    "stats",
+    "rx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:primeagen/rx-data.git"
+  },
+  "author": [
+    "Michael Paulson <michael.b.paulson@gmail.com>"
+  ],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "rx": "*",
+    "rxjs-jquery": "*",
+    "ix": "1.0.2",
+    "rxjs-fs": "*",
+    "browserify": "*",
+    "lodash": "*"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {},
+  "license": "MIT"
+}
