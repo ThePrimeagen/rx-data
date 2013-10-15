@@ -1,6 +1,6 @@
 {
   "name": "rx-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Data processing and correlation.  Async with RX.",
   "homepage": "https://github.com/primeagen/rx-data",
   "keywords": [
